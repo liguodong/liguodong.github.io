@@ -67,7 +67,7 @@ ga_domain: guodong.li
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "优秀是一种习惯，<br>人生不长，择善而行"
+sidebar-about-description: "优秀是一种习惯，<br>应无所住而生其心"
 #sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
