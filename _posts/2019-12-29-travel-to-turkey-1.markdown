@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "土耳其之旅（1）"
-subtitle:     "机票篇"
+title:        "行在土耳其（准备篇）"
+subtitle:     "机票的购买"
 date:         2019-12-29 12:00:00
 author:       "Guodong"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
@@ -9,7 +9,7 @@ header-mask:  0.1
 catalog:      true
 multilingual: true
 tags:
-    - 旅行
+    - 人生百国
     - 智享飞
     - 土耳其
 ---
