@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "土耳其之旅（1）"
-subtitle:     "机票篇"
+title:        "土耳其之旅（2）"
+subtitle:     "行程篇"
 date:         2019-12-29 12:00:00
 author:       "Guodong"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
