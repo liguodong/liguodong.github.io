@@ -1,3 +1,19 @@
+---
+layout:       post
+title:        "行在土耳其（游记）"
+subtitle:     "游记"
+date:         2019-12-29 12:00:00
+author:       "Guodong"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask:  0.1
+catalog:      true
+multilingual: true
+tags:
+    - 人生百国
+    - 智享飞
+    - 土耳其
+---
+
 ### DAY 1：到火鸡国啦
 
 ###### 日期：2020年1月18日
