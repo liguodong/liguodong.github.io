@@ -4,7 +4,7 @@ title:        "行在土耳其（游记）"
 subtitle:     "游记"
 date:         2019-12-29 12:00:00
 author:       "Guodong"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img:   "img/in-post/post-turkey/turkey-01.jpeg"
 header-mask:  0.1
 catalog:      true
 multilingual: true
